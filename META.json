@@ -1,0 +1,60 @@
+{
+  "category": "network-monitoring",
+  "created_date": "2025-09-15T22:48:57.247124",
+  "default_ports": [
+    80,
+    443
+  ],
+  "dependencies": [],
+  "description": "bandwidthd is a free and open-source bandwidth monitoring. BandwidthD tracks bandwidth usage and provides graphs",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/network-monitoring/bandwidthd",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/network-monitoring/bandwidthd",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:57.247149",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "bandwidthd",
+  "repository_url": "https://github.com/howtomgr/bandwidthd",
+  "spec_version": "2.0",
+  "subcategory": "network-monitoring",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "network-monitoring",
+    "containerization",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection"
+  ],
+  "title": "bandwidthd Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/network-monitoring/bandwidthd"
+}
